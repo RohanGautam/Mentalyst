@@ -1,5 +1,7 @@
 # Mentalyst
 Hack developed at HackNTU 2019
+
+Devpost [here.](https://devpost.com/software/mentalyst)
 ## Snapshots
 ![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/783/880/datas/gallery.jpg)
 
