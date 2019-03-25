@@ -1,5 +1,9 @@
 # Mentalyst
 Hack developed at HackNTU 2019
+## Snapshots
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/783/880/datas/gallery.jpg)
+
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/783/881/datas/gallery.jpg)
 ## Inspiration
 
 According to American journalist, we live in what he calls a "post-truth political environment". A political culture in which debate is framed largely by appeals to emotion disconnected from the details of policy. We often find ourselves surrounded by lies and political scandals. Studies have also shown that humans can detect lies in 54% of all cases. So this begs the question, how can we do better?
