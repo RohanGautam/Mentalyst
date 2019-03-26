@@ -1,0 +1,2214 @@
+1553367150215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.6mwRV5UQSyW7"
+*** You are running in headless mode.
+1553367153456	Marionette	INFO	Listening on port 56234
+1553367153490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367153592	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367153595	Marionette	DEBUG	[6442450945] Frame script registered
+1553367153620	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367153945	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367154283	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553367154734	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367167059	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367167234	Marionette	DEBUG	[6442450945] Frame script registered
+1553367167253	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367167453	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367167752	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553367168595	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367200664	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367200719	Marionette	DEBUG	[6442450945] Frame script registered
+1553367200763	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367201022	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367201247	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553367201707	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367247965	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367247968	Marionette	DEBUG	[6442450945] Frame script registered
+1553367247982	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367248137	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367248338	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553367248778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367447141	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367447183	Marionette	DEBUG	[6442450945] Frame script registered
+1553367447315	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367447600	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367447901	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553367448375	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367468740	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367468747	Marionette	DEBUG	[6442450945] Frame script registered
+1553367468948	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367469172	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367469496	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=est%20sit%20amet,%20scelerisque%20sodales%3Apolitifact.com
+1553367469993	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=est%20sit%20amet,%20scelerisque%20sodales%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367528167	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367528170	Marionette	DEBUG	[6442450945] Frame script registered
+1553367528185	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367528406	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367528847	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553367529322	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367641175	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367641177	Marionette	DEBUG	[6442450945] Frame script registered
+1553367641191	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367641582	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367642054	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+1553367643141	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367715202	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367715204	Marionette	DEBUG	[6442450945] Frame script registered
+1553367715217	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367715375	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367715695	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+1553367716134	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367750815	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367750817	Marionette	DEBUG	[6442450945] Frame script registered
+1553367750844	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367750997	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367751276	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+1553367751704	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553367800297	Marionette	DEBUG	[6442450945] Frame script loaded
+1553367800302	Marionette	DEBUG	[6442450945] Frame script registered
+1553367800326	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553367800548	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553367800846	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+1553367801318	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1553368335845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.9bd2UWSvo8g3"
+*** You are running in headless mode.
+1553368338815	Marionette	INFO	Listening on port 58257
+1553368339090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368339227	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368339230	Marionette	DEBUG	[6442450945] Frame script registered
+1553368339246	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368339423	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368339933	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african.%3Apolitifact.com
+1553368340459	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368455290	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368455293	Marionette	DEBUG	[6442450945] Frame script registered
+1553368455342	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368455553	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368455936	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+1553368457200	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368508610	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368508614	Marionette	DEBUG	[6442450945] Frame script registered
+1553368508627	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368550829	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368551177	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+1553368551572	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368566835	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368566838	Marionette	DEBUG	[6442450945] Frame script registered
+1553368566850	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368567248	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368567543	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+1553368568025	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368706021	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368706024	Marionette	DEBUG	[6442450945] Frame script registered
+1553368706074	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368706310	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368706709	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=ama%20is%20african%3Apolitifact.com
+1553368707127	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=ama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368890620	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368890623	Marionette	DEBUG	[6442450945] Frame script registered
+1553368890640	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368890848	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368891281	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=a%20is%20africa%3Apolitifact.com
+1553368891872	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=a%20is%20africa%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553368988719	Marionette	DEBUG	[6442450945] Frame script loaded
+1553368988722	Marionette	DEBUG	[6442450945] Frame script registered
+1553368988735	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553368988878	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553368989258	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+1553368989680	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369019774	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369019776	Marionette	DEBUG	[6442450945] Frame script registered
+1553369019789	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369019947	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369020220	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+1553369020656	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369113377	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369113380	Marionette	DEBUG	[6442450945] Frame script registered
+1553369113395	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369113664	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369113951	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=n%20porta%20gravida%20arcu,%3Apolitifact.com
+1553369114513	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=n%20porta%20gravida%20arcu,%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369268463	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369268479	Marionette	DEBUG	[6442450945] Frame script registered
+1553369268508	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369268709	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369269133	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369269578	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369342674	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369342677	Marionette	DEBUG	[6442450945] Frame script registered
+1553369342696	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369342864	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369343232	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+1553369343659	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369400919	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369400922	Marionette	DEBUG	[6442450945] Frame script registered
+1553369400935	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369401094	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369401392	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369401865	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369440389	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369440392	Marionette	DEBUG	[6442450945] Frame script registered
+1553369440407	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369440574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369440825	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+1553369441314	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=bama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369493534	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369493538	Marionette	DEBUG	[6442450945] Frame script registered
+1553369493553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369495909	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369496205	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369500648	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369534321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.iWWm31C2ldOV"
+*** You are running in headless mode.
+1553369537137	Marionette	INFO	Listening on port 60616
+1553369537595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369537685	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369537687	Marionette	DEBUG	[6442450945] Frame script registered
+1553369537704	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369539884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369540196	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369548609	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369624681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.lyAldzRdE9RJ"
+*** You are running in headless mode.
+1553369627109	Marionette	INFO	Listening on port 60766
+1553369627430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369627516	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369627519	Marionette	DEBUG	[6442450945] Frame script registered
+1553369627534	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369629701	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369630009	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369638340	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369696584	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369696586	Marionette	DEBUG	[6442450945] Frame script registered
+1553369696600	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369698728	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369699072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553369704442	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369750323	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369750326	Marionette	DEBUG	[6442450945] Frame script registered
+1553369750357	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369752854	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369752856	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369752856	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553369752923	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//www.google.com/search%3Fclient%3Dubuntu%26channel%3Dfs%26q%3DObama%2520is%2520african%253Apolitifact.com&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.google.com.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553369799479	Marionette	DEBUG	[6442450945] Frame script loaded
+1553369799482	Marionette	DEBUG	[6442450945] Frame script registered
+1553369799496	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369799575	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553369799576	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553369799606	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//www.google.com/search%3Fclient%3Dubuntu%26channel%3Dfs%26q%3DObama%2520is%2520african%253Apolitifact.com&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.google.com.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370157828	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370157831	Marionette	DEBUG	[6442450945] Frame script registered
+1553370157843	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370157881	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370157882	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370157912	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//www.google.com/search%3Fclient%3Dubuntu%26channel%3Dfs%26q%3DObama%2520is%2520african%253Apolitifact.com&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.google.com.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370223662	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370223664	Marionette	DEBUG	[6442450945] Frame script registered
+1553370223677	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370223712	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370223713	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370223744	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//www.google.com/search%3Fclient%3Dubuntu%26channel%3Dfs%26q%3DObama%2520is%2520african%253Apolitifact.com&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.google.com.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370304811	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370304813	Marionette	DEBUG	[6442450945] Frame script registered
+1553370304827	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370305811	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370305813	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370305841	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//www.google.com/search%3Fclient%3Dubuntu%26channel%3Dfs%26q%3DObama%2520is%2520african.%253Apolitifact.com&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.google.com.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370546963	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370546966	Marionette	DEBUG	[6442450945] Frame script registered
+1553370546978	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370547368	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370548045	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553370548776	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370622280	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370622283	Marionette	DEBUG	[6442450945] Frame script registered
+1553370622295	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370622668	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370623016	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553370623808	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370746804	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370746808	Marionette	DEBUG	[6442450945] Frame script registered
+1553370746843	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370747272	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370747626	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553370748650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370783083	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370783090	Marionette	DEBUG	[6442450945] Frame script registered
+1553370783167	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370783791	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370784176	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553370785099	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553370920215	Marionette	DEBUG	[6442450945] Frame script loaded
+1553370920219	Marionette	DEBUG	[6442450945] Frame script registered
+1553370920235	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553370932969	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553370933359	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553370934357	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371036617	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371036623	Marionette	DEBUG	[6442450945] Frame script registered
+1553371036643	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371036904	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371037182	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553371038038	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371208396	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371208400	Marionette	DEBUG	[6442450945] Frame script registered
+1553371208418	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371208589	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371208905	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553371209370	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553371253396	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371253399	Marionette	DEBUG	[6442450945] Frame script registered
+1553371253436	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371253654	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371253884	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+1553371254326	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%20is%20african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371300444	Marionette	DEBUG	[4294967297] Frame script loaded
+1553371300452	Marionette	DEBUG	[4294967297] Frame script registered
+1553371300480	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1553371300675	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1553371301165	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553371302336	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371368253	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371368264	Marionette	DEBUG	[6442450945] Frame script registered
+1553371368320	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371368721	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371369015	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553371369648	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371477517	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371477520	Marionette	DEBUG	[6442450945] Frame script registered
+1553371477537	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371477936	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371478265	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553371479414	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371542248	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371542251	Marionette	DEBUG	[6442450945] Frame script registered
+1553371542266	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371542594	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371542845	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553371543842	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371584637	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371584643	Marionette	DEBUG	[6442450945] Frame script registered
+1553371584666	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371585157	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371585373	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553371586215	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371692908	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371692912	Marionette	DEBUG	[6442450945] Frame script registered
+1553371692931	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371693500	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371693652	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553371694639	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371772317	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371772320	Marionette	DEBUG	[6442450945] Frame script registered
+1553371772358	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371773004	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371773310	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553371774119	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553371958218	Marionette	DEBUG	[6442450945] Frame script loaded
+1553371958223	Marionette	DEBUG	[6442450945] Frame script registered
+1553371958247	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553371958635	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553371958863	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553371959545	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372078402	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372078404	Marionette	DEBUG	[6442450945] Frame script registered
+1553372078419	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372078811	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372079044	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553372079782	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372153400	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372153402	Marionette	DEBUG	[6442450945] Frame script registered
+1553372153418	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372153753	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372154046	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553372155065	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372279765	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372279780	Marionette	DEBUG	[6442450945] Frame script registered
+1553372279883	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372280600	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372280894	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553372281778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372355965	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372355968	Marionette	DEBUG	[6442450945] Frame script registered
+1553372355980	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372356348	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372356765	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553372357780	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372533906	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372533909	Marionette	DEBUG	[6442450945] Frame script registered
+1553372533928	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372534308	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372534643	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553372535671	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372595201	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372595205	Marionette	DEBUG	[6442450945] Frame script registered
+1553372595226	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372595598	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372595946	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553372597211	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372730560	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372730563	Marionette	DEBUG	[6442450945] Frame script registered
+1553372730576	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372731285	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372731586	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553372732770	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553372965545	Marionette	DEBUG	[6442450945] Frame script loaded
+1553372965547	Marionette	DEBUG	[6442450945] Frame script registered
+1553372965560	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553372966094	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553372966528	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+1553372967306	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553373002837	Marionette	DEBUG	[6442450945] Frame script loaded
+1553373002840	Marionette	DEBUG	[6442450945] Frame script registered
+1553373002852	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553373003210	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553373003532	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553373004345	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553373153716	Marionette	DEBUG	[6442450945] Frame script loaded
+1553373153719	Marionette	DEBUG	[6442450945] Frame script registered
+1553373153735	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553373154122	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553373154400	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+1553373156336	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=undefined%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553373351252	Marionette	DEBUG	[6442450945] Frame script loaded
+1553373351255	Marionette	DEBUG	[6442450945] Frame script registered
+1553373351270	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553373351591	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553373352010	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553373352716	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553373561832	Marionette	DEBUG	[6442450945] Frame script loaded
+1553373561835	Marionette	DEBUG	[6442450945] Frame script registered
+1553373561852	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553373562242	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553373562559	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553373563365	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553373598481	Marionette	DEBUG	[6442450945] Frame script loaded
+1553373598486	Marionette	DEBUG	[6442450945] Frame script registered
+1553373598506	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553373598825	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553373599157	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553373601248	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1553375364918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.Y2cU3U4y30pP"
+*** You are running in headless mode.
+1553375368323	Marionette	INFO	Listening on port 54166
+1553375368783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553375368853	Marionette	DEBUG	[6442450945] Frame script loaded
+1553375368856	Marionette	DEBUG	[6442450945] Frame script registered
+1553375368870	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553375369046	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553375369318	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553375369808	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1553376064995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.3DffnBk8tCmN"
+*** You are running in headless mode.
+1553376067611	Marionette	INFO	Listening on port 54956
+1553376067768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376068006	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376068009	Marionette	DEBUG	[6442450945] Frame script registered
+1553376068033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376068230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376068679	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553376069175	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.wGhkDUrQ7ds3"
+*** You are running in headless mode.
+1553376223634	Marionette	INFO	Listening on port 55218
+1553376224042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376224121	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376224124	Marionette	DEBUG	[6442450945] Frame script registered
+1553376224139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376224307	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376224600	Marionette	DEBUG	[64console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:1console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376540535	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376540538	Marionette	DEBUG	[6442450945] Frame script registered
+1553376540551	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376540720	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376541064	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%3Apolitifact.com
+1553376541524	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376568713	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376568715	Marionette	DEBUG	[6442450945] Frame script registered
+1553376568731	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376569166	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376569675	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%is%african%3Apolitifact.com
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en.Z6AfesVh4a4.O/m=sx,Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,xpltpb,yQ43ff,d,csi/am=BgDAIszdgPJ_CgC6ACCwCmxggQKiYSI/rt=j/d=1/dg=2/rs=ACT90oHi7q45rAFbIpYc2YifBZkpnhmQWw, line 229: URIError: malformed URI sequence
+1553376569791	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%is%african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376658469	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376658472	Marionette	DEBUG	[6442450945] Frame script registered
+1553376658486	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376658672	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376658930	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%is%african%3Apolitifact.com
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en.Z6AfesVh4a4.O/m=sx,Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,xpltpb,yQ43ff,d,csi/am=BgDAIszdgPJ_CgC6ACCwCmxggQKiYSI/rt=j/d=1/dg=2/rs=ACT90oHi7q45rAFbIpYc2YifBZkpnhmQWw, line 229: URIError: malformed URI sequence
+1553376659027	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Obama%is%african%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376795770	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376795793	Marionette	DEBUG	[6442450945] Frame script registered
+1553376795816	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376796028	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376796305	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553376796766	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553376943540	Marionette	DEBUG	[6442450945] Frame script loaded
+1553376943543	Marionette	DEBUG	[6442450945] Frame script registered
+1553376943558	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553376943823	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553376944118	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553376944546	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1553377779877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.iNJtkf8pb6JF"
+*** You are running in headless mode.
+1553377782230	Marionette	INFO	Listening on port 57497
+1553377782624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553377782712	Marionette	DEBUG	[6442450945] Frame script loaded
+1553377782715	Marionette	DEBUG	[6442450945] Frame script registered
+1553377782728	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553377782889	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553377783235	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+1553377783701	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553377838534	Marionette	DEBUG	[6442450945] Frame script loaded
+1553377838537	Marionette	DEBUG	[6442450945] Frame script registered
+1553377838569	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553377838722	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553377839040	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Rus%3Apolitifact.com
+1553377839507	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Rus%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553378058215	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378058242	Marionette	DEBUG	[6442450945] Frame script registered
+1553378058310	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378058627	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378058628	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553378059058	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553378059861	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378235994	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378236005	Marionette	DEBUG	[6442450945] Frame script registered
+1553378236033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378236230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378236230	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553378236642	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553378237213	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378282568	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378282571	Marionette	DEBUG	[6442450945] Frame script registered
+1553378282589	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378282785	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378283049	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553378283501	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378361165	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378361169	Marionette	DEBUG	[6442450945] Frame script registered
+1553378361191	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378361362	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378361650	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553378362089	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378429499	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378429501	Marionette	DEBUG	[6442450945] Frame script registered
+1553378429525	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378429715	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378430106	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553378430560	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378489957	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378489960	Marionette	DEBUG	[6442450945] Frame script registered
+1553378489985	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378490325	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378490325	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553378490621	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553378491300	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378594379	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378594413	Marionette	DEBUG	[6442450945] Frame script registered
+1553378594442	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378594622	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378594992	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553378595687	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553378602930	Marionette	DEBUG	[6442450945] Frame script loaded
+1553378602935	Marionette	DEBUG	[6442450945] Frame script registered
+1553378602951	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553378603139	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553378603536	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553378604234	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379042192	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379042195	Marionette	DEBUG	[6442450945] Frame script registered
+1553379042212	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379042381	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379042660	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553379043114	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379100440	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379100443	Marionette	DEBUG	[6442450945] Frame script registered
+1553379100458	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379100619	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379101040	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+1553379101512	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379158756	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379158767	Marionette	DEBUG	[6442450945] Frame script registered
+1553379158793	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379159035	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379159281	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553379159814	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379256264	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379256267	Marionette	DEBUG	[6442450945] Frame script registered
+1553379256281	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379256428	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379256806	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553379257264	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+9	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379448947	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379448951	Marionette	DEBUG	[6442450945] Frame script registered
+1553379448972	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379449169	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379449419	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553379449850	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379494109	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379494119	Marionette	DEBUG	[6442450945] Frame script registered
+1553379494141	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379494355	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379494683	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+1553379495173	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553379546722	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379546725	Marionette	DEBUG	[6442450945] Frame script registered
+1553379546741	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379546978	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379547258	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553379547905	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553379586319	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379586322	Marionette	DEBUG	[6442450945] Frame script registered
+1553379586340	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379586536	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379586899	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553379587347	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379763418	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379763421	Marionette	DEBUG	[6442450945] Frame script registered
+1553379763465	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379763658	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379763659	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553379763907	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+1553379764363	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Bernie%20Sanders%20is%20Russian%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379835455	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379835458	Marionette	DEBUG	[6442450945] Frame script registered
+1553379835472	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379835634	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379835900	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553379836366	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379881512	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379881516	Marionette	DEBUG	[6442450945] Frame script registered
+1553379881537	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379881722	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379882100	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor,%3Apolitifact.com
+1553379882585	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor,%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553379940425	Marionette	DEBUG	[6442450945] Frame script loaded
+1553379940428	Marionette	DEBUG	[6442450945] Frame script registered
+1553379940456	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553379940693	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553379940858	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553379941380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+0	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553380017633	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380017649	Marionette	DEBUG	[6442450945] Frame script registered
+1553380017672	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380017888	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380018212	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380018942	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553380093118	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380093121	Marionette	DEBUG	[6442450945] Frame script registered
+1553380093137	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380093417	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380093584	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380094055	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553380120702	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380120704	Marionette	DEBUG	[6442450945] Frame script registered
+1553380120721	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380120914	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380121142	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380121587	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553380482965	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380482968	Marionette	DEBUG	[6442450945] Frame script registered
+1553380482983	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380483170	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380483477	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380483990	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553380740074	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380740077	Marionette	DEBUG	[6442450945] Frame script registered
+1553380740095	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380740330	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380740772	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380741347	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553380752023	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380752030	Marionette	DEBUG	[6442450945] Frame script registered
+1553380752051	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380752272	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380752541	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380753616	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553380885372	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380885374	Marionette	DEBUG	[6442450945] Frame script registered
+1553380885387	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380885559	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380885804	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553380886234	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.uLLZmsArpAyK"
+*** You are running in headless mode.
+1553380982980	Marionette	INFO	Listening on port 63801
+1553380983222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553380983589	Marionette	DEBUG	[6442450945] Frame script loaded
+1553380983593	Marionette	DEBUG	[6442450945] Frame script registered
+1553380983622	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553380983784	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553380984061	Marionette	DEBUG	[6442450945] Received DOM event DOMCoconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.polconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553381107833	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381107835	Marionette	DEBUG	[6442450945] Frame script registered
+1553381107849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381108023	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381108307	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381108866	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381133663	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381133665	Marionette	DEBUG	[6442450945] Frame script registered
+1553381133679	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381133865	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381134301	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381134749	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381291404	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381291407	Marionette	DEBUG	[6442450945] Frame script registered
+1553381291436	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381291789	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381291789	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553381292160	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381292610	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553381325750	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381325753	Marionette	DEBUG	[6442450945] Frame script registered
+1553381325767	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381325920	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381326207	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381326664	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381459325	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381459340	Marionette	DEBUG	[6442450945] Frame script registered
+1553381459413	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381459626	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381459917	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381460465	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381496849	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381496897	Marionette	DEBUG	[6442450945] Frame script registered
+1553381496964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381497181	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381497422	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381497869	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+4	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381561363	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381561365	Marionette	DEBUG	[6442450945] Frame script registered
+1553381561380	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381561566	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381562094	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor,%3Apolitifact.com
+1553381562671	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor,%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381588638	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381588642	Marionette	DEBUG	[6442450945] Frame script registered
+1553381588660	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381588848	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381589143	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor,%3Apolitifact.com
+1553381589737	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor,%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553381643698	Marionette	DEBUG	[6442450945] Frame script loaded
+1553381643721	Marionette	DEBUG	[6442450945] Frame script registered
+1553381643764	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553381643980	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553381644321	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553381644745	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553383125365	Marionette	DEBUG	[6442450945] Frame script loaded
+1553383125370	Marionette	DEBUG	[6442450945] Frame script registered
+1553383125392	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553383125669	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553383126205	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553383126782	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553383221366	Marionette	DEBUG	[6442450945] Frame script loaded
+1553383221369	Marionette	DEBUG	[6442450945] Frame script registered
+1553383221386	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553383221636	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553383222023	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+1553383222549	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Trump%20is%20poor%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1553386436990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.PFof7DUoIVRD"
+*** You are running in headless mode.
+1553386440784	Marionette	INFO	Listening on port 63976
+1553386440853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386441052	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386441055	Marionette	DEBUG	[6442450945] Frame script registered
+1553386441087	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386441295	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386441771	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553386442712	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+2	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386480520	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386481002	Marionette	DEBUG	[6442450945] Frame script registered
+1553386481054	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386481276	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386481651	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=Firearms%20are%20cheaper%20in%20Indiana.%3Apolitifact.com
+1553386482320	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=Firearms%20are%20cheaper%20in%20Indiana.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386520830	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386520832	Marionette	DEBUG	[6442450945] Frame script registered
+1553386520849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386521087	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386521490	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%3Apolitifact.com
+1553386522182	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386648387	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386648390	Marionette	DEBUG	[6442450945] Frame script registered
+1553386648421	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386648613	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386649083	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553386649926	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386671181	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386671184	Marionette	DEBUG	[6442450945] Frame script registered
+1553386671283	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386671454	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386671691	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553386672198	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+5	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386716070	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386716073	Marionette	DEBUG	[6442450945] Frame script registered
+1553386716090	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386716364	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386716729	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=6,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553386717241	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=6,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386768900	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386768905	Marionette	DEBUG	[6442450945] Frame script registered
+1553386768969	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386769435	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386769700	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553386770255	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386796705	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386796708	Marionette	DEBUG	[6442450945] Frame script registered
+1553386796740	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386797031	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386797032	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1553386797456	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553386798071	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+8	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386875233	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386875239	Marionette	DEBUG	[6442450945] Frame script registered
+1553386875331	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386875561	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386875881	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553386876855	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+6	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386918279	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386918281	Marionette	DEBUG	[6442450945] Frame script registered
+1553386918295	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386918482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386918730	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553386919622	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+7	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386941422	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386941443	Marionette	DEBUG	[6442450945] Frame script registered
+1553386941464	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386941681	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386942024	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553386942548	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553386970090	Marionette	DEBUG	[6442450945] Frame script loaded
+1553386970092	Marionette	DEBUG	[6442450945] Frame script registered
+1553386970527	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553386970712	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553386970988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553386971713	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+for this session
+1553387001585	Marionette	DEBUG	[6442450945] Frame script loaded
+1553387001588	Marionette	DEBUG	[6442450945] Frame script registered
+1553387001665	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553387002082	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553387002531	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=6,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553387003154	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=6,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+3	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553387018232	Marionette	DEBUG	[6442450945] Frame script loaded
+1553387018235	Marionette	DEBUG	[6442450945] Frame script registered
+1553387018272	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553387018482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553387018768	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553387019327	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1553387940601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.49oJiJ5HDwow"
+*** You are running in headless mode.
+1553387943933	Marionette	INFO	Listening on port 54249
+1553387944042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553387944147	Marionette	DEBUG	[6442450945] Frame script loaded
+1553387944149	Marionette	DEBUG	[6442450945] Frame script registered
+1553387944171	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553387944351	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553387944761	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553387945689	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=%3Apolitifact.com
+1553387978569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.KGlm2g3d0O25"
+*** You are running in headless mode.
+1553387982522	Marionette	INFO	Listening on port 54351
+1553387983101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553387983224	Marionette	DEBUG	[6442450945] Frame script loaded
+1553387983227	Marionette	DEBUG	[6442450945] Frame script registered
+1553387983251	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553387983433	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+1553387983726	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+Assertion failure: [unhandlable oom] LifoAlloc::allocInfallible, at z:/build/build/src/js/src/vm/JSContext.cpp:1576
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 86728, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 86312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8631553387984282	Marionette	INFO	Stopped listening on port 54351
+1553388053902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.2t4bpyrdEaKO"
+*** You are running in headless mode.
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x000000000000E57C bytes requested
+1553388171211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.fICWXZhu7TNq"
+*** You are running in headless mode.
+1553388173921	Marionette	INFO	Listening on port 54666
+1553388173986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553388174104	Marionette	DEBUG	[6442450945] Frame script loaded
+1553388174108	Marionette	DEBUG	[6442450945] Frame script registered
+1553388174133	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553388174374	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553388174656	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+JavaScript error: , line 0: uncaught exception: out of memory
+1553388175036	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser.js, line 3944: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser.js, line 3944: NS_ERROR_XPC_JS_THREW_STRING: out of memory'out of memory' when calling method: [nsIBrowserSearchService::getDefaultEngines]
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 217: uncaught exception: out of memory
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 217: NS_ERROR_XPC_JS_THREW_STRING: out of memory'out of memory' when calling method: [nsIBrowserSearchService::parseSubmissionURL]
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1553388284991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.7gjSxQyhWhSc"
+*** You are running in headless mode.
+1553388287724	Marionette	INFO	Listening on port 54985
+1553388287745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553388287861	Marionette	DEBUG	[6442450945] Frame script loaded
+1553388287864	Marionette	DEBUG	[6442450945] Frame script registered
+1553388287885	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553388288356	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+out of memory: 0x0000000000000058 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Parent 40676, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1553388288799	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+observe@ContentCrashHandlers.jsm:152:11
+[Parent 40676, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 89532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 89532, Chrome_ChildThread] WARNING: pipe e[Child 89476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1553388289179	Marionette	INFO	Stopped listening on port 54985
+1553388410565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.u0eS8sVMiH2t"
+*** You are running in headless mode.
+JavaScript error: , line 0: NS_ERROR_OUT_OF_MEMORY: Out of Memory arg 0 [nsITimer.initWithCallback]
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsSessionStartup.js, line 96: uncaught exception: out of memory
+JavaScript error: , line 0: NS_ERROR_FILE_NOT_FOUND: 
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 306: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 1661: uncaught exception: out of memory
+1553389019048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.y4UynoNL1EX5"
+*** You are running in headless mode.
+1553389021365	Marionette	INFO	Listening on port 49900
+1553389021784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553389021885	Marionette	DEBUG	[6442450945] Frame script loaded
+1553389021887	Marionette	DEBUG	[6442450945] Frame script registered
+1553389021904	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553389022395	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553389022859	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553389023292	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553389024438	Marionette	INFO	Stopped listening on port 49900
+[Parent 14916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16072, Chrome_ChildThread] WARNING: pipe[Parent 14916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13172, Chrome_Ch[Parent 14916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1553390118303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.pis89HT9D6Xj"
+*** You are running in headless mode.
+1553390121192	Marionette	INFO	Listening on port 50031
+1553390121552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553390121682	Marionette	DEBUG	[6442450945] Frame script loaded
+1553390121685	Marionette	DEBUG	[6442450945] Frame script registered
+1553390121709	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553390121977	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553390122349	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553390123188	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553390124346	Marionette	INFO	Stopped listening on port 50031
+[Child 14524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13308, Chrome_ChildThread] W1553405588238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.przAyXPz243k"
+*** You are running in headless mode.
+1553405592053	Marionette	INFO	Listening on port 50596
+1553405592129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553405592290	Marionette	DEBUG	[6442450945] Frame script loaded
+1553405592295	Marionette	DEBUG	[6442450945] Frame script registered
+1553405592367	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553405592606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553405593130	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553405593906	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553405595129	Marionette	INFO	Stopped listening on port 50596
+[Parent 15016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 15016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1553405968234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.S0cpdAP8TmH5"
+*** You are running in headless mode.
+1553405970728	Marionette	INFO	Listening on port 50800
+1553405970977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553405971083	Marionette	DEBUG	[6442450945] Frame script loaded
+1553405971085	Marionette	DEBUG	[6442450945] Frame script registered
+1553405971103	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553405971280	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553405971746	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553405972429	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553405973590	Marionette	INFO	Stopped listening on port 50800
+[Child 692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 15044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1553407715373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.QKnUIRxEuvUn"
+*** You are running in headless mode.
+1553407717475	Marionette	INFO	Listening on port 51706
+1553407717517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553407717607	Marionette	DEBUG	[6442450945] Frame script loaded
+1553407717635	Marionette	DEBUG	[6442450945] Frame script registered
+1553407717663	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553407717893	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553407718242	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553407718660	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553407719836	Marionette	INFO	Stopped listening on port 51706
+[Child 15664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1566[Parent 9920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1553408581232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.jWDyN27kDpF0"
+*** You are running in headless mode.
+1553408583335	Marionette	INFO	Listening on port 51897
+1553408583375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553408583488	Marionette	DEBUG	[6442450945] Frame script loaded
+1553408583510	Marionette	DEBUG	[6442450945] Frame script registered
+1553408583544	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553408583767	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553408584108	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553408584511	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553408585669	Marionette	INFO	Stopped listening on port 51897
+[Child 13196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13196[Child 15244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1524[Parent 11432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1553409852406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.Gnum3osB4EiF"
+*** You are running in headless mode.
+1553409854975	Marionette	INFO	Listening on port 52120
+1553409855162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553409855263	Marionette	DEBUG	[6442450945] Frame script loaded
+1553409855266	Marionette	DEBUG	[6442450945] Frame script registered
+1553409855290	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553409855453	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553409855861	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553409856364	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me%3Apolitifact.com
+1553409857544	Marionette	INFO	Stopped listening on port 52120
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+[Parent 15392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1553411927356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.csqbNANNlwjG"
+*** You are running in headless mode.
+1553411929699	Marionette	INFO	Listening on port 52438
+1553411930116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553411930202	Marionette	DEBUG	[6442450945] Frame script loaded
+1553411930205	Marionette	DEBUG	[6442450945] Frame script registered
+1553411930219	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553411930519	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553411930832	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553411931406	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553411932573	Marionette	INFO	Stopped listening on port 52438
+[Parent 15500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1553415093595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.GvQ9x2gsYGY7"
+*** You are running in headless mode.
+1553415095720	Marionette	INFO	Listening on port 52683
+1553415095729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553415095836	Marionette	DEBUG	[6442450945] Frame script loaded
+1553415095846	Marionette	DEBUG	[6442450945] Frame script registered
+1553415095868	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553415096101	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553415096568	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553415096984	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week,%20endorsed%20me.%3Apolitifact.com
+1553415098154	Marionette	INFO	Stopped listening on port 52683
+[Child 6496, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6496, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6496, 1553417852084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\laksh\\AppData\\Local\\Temp\\rust_mozprofile.S5LayUOmAwoZ"
+*** You are running in headless mode.
+1553417854732	Marionette	INFO	Listening on port 52872
+1553417854832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553417854943	Marionette	DEBUG	[6442450945] Frame script loaded
+1553417854947	Marionette	DEBUG	[6442450945] Frame script registered
+1553417854991	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553417855171	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553417855698	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week%3Apolitifact.com
+1553417856210	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/search?client=ubuntu&channel=fs&q=16,500-plus%20ICE%20last%20week%3Apolitifact.com
+1553417857289	Marionette	INFO	Stopped listening on port 52872
+[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
